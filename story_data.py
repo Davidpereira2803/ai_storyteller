@@ -1,31 +1,35 @@
 STORY_TREE = {
-    "meta": {"title": "The Broken Crown (Demo)", "genre": "Fantasy"},
+    "meta": {
+        "title": "The Broken Crown (Demo)", 
+        "genre": "Fantasy",
+        "tone": "mysterious",
+        "author": "AI Storyteller",
+        "version": "1.0"
+    },
     "nodes": {
         "start": {
             "id": "start",
-            "text": "You stand at the cracked threshold of the crown hall. Torches gutter in the cold wind; the throne sits empty.",
+            "text": "You stand at the cracked threshold of the crown hall. Ancient tapestries flutter in the cold wind that seeps through broken windows. The once-magnificent throne sits empty, its golden surface tarnished and split. Shadows dance across the floor as torches gutter in their sconces.",
             "choices": [
-                {"id": "inspect_throne", "text": "Inspect the throne"},
-                {"id": "question_guard", "text": "Question the guard"},
-                {"id": "leave_hall", "text": "Leave quietly"}
+                {"id": "inspect_throne", "text": "Approach and inspect the damaged throne"},
+                {"id": "question_guard", "text": "Question the lone guard in the corner"},
+                {"id": "examine_tapestries", "text": "Examine the ancient tapestries"},
+                {"id": "leave_hall", "text": "Leave the hall quietly"}
             ]
-        },
-        "inspect_throne": {
-            "id": "inspect_throne",
-            "text": "A curtain of royal cloth has been slashed; a single thread clings to the throne. Something glitters under the cushions.",
-            "choices": [
-                {"id": "search_cushions", "text": "Search the cushions"},
-                {"id": "follow_thread", "text": "Follow the thread out of the hall"}
-            ]
-        },
-        "question_guard": {
-            "id": "question_guard",
-            "text": "The guard looks at you with tired eyes. 'Not my place to talk of the crown,' he says, but his hand rests near his dagger.",
-            "choices": [
-                {"id": "bribe_guard", "text": "Bribe the guard"},
-                {"id": "intimidate_guard", "text": "Intimidate the guard"}
-            ]
-        },
-        # ... add other nodes and endings here
+        }
+    }
+}
+
+# Story templates for better AI generation
+STORY_TEMPLATES = {
+    "fantasy": {
+        "tone_words": ["mystical", "ancient", "magical", "enchanted"],
+        "common_elements": ["magic", "kingdoms", "quests", "artifacts"],
+        "choice_types": ["investigate", "use magic", "consult wisdom", "seek allies"]
+    },
+    "mystery": {
+        "tone_words": ["suspicious", "intriguing", "hidden", "secretive"],
+        "common_elements": ["clues", "suspects", "evidence", "revelations"],
+        "choice_types": ["investigate", "question", "analyze", "follow leads"]
     }
 }

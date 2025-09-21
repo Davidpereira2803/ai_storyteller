@@ -1,0 +1,293 @@
+{
+  "version": "2.0",
+  "saved_at": "2025-09-21T23:24:53.815549",
+  "game_data": {
+    "current_text": "As you take a cautious step forward, the figure's gaze fixes on you with an unnerving intensity. The air is heavy with unspoken words, and you sense that the connection you've established is fragile at best. Suddenly, the misty figure speaks in a voice that's barely audible above a whisper.",
+    "history": [
+      {
+        "choice": "Inspect the throne",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Investigate the magic residue"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Search the throne room for other clues"
+          }
+        ]
+      },
+      {
+        "choice": "Search the throne room for other clues",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Investigate the candelabra for potential magical properties"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Approach the mirror to examine the distorted reflection"
+          }
+        ]
+      },
+      {
+        "choice": "Investigate the candelabra for potential magical properties",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Gently blow out the flame to examine its core"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Cautiously touch one of the candles to feel for any unusual energies"
+          }
+        ]
+      },
+      {
+        "choice": "Gently blow out the flame to examine its core",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Try to take the stone and examine it closer"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Investigate the candelabra's base to see if there are any hidden compartments or clues"
+          }
+        ]
+      },
+      {
+        "choice": "Investigate the candelabra's base to see if there are any hidden compartments or clues",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Try to press on the seam to see if it opens"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Use your fingers to feel for any hidden catches or mechanisms"
+          }
+        ]
+      },
+      {
+        "choice": "Try to press on the seam to see if it opens",
+        "choices": [
+          {
+            "id": "choice1",
+            "text": "Try to decipher the meaning of the message"
+          },
+          {
+            "id": "choice2",
+            "text": "Leave the compartment and examine the candelabra's other features again"
+          },
+          {
+            "id": "choice3",
+            "text": "Reach for the parchment, hoping it might be a clue to unlocking more secrets"
+          }
+        ]
+      },
+      {
+        "choice": "Reach for the parchment, hoping it might be a clue to unlocking more secrets",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Reach out to see who or what is touching you"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Focus back on the parchment and try to decipher the message again"
+          }
+        ]
+      },
+      {
+        "choice": "Reach out to see who or what is touching you",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Try to communicate with the entity"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Pull away, feeling uneasy about the contact"
+          }
+        ]
+      },
+      {
+        "choice": "Pull away, feeling uneasy about the contact",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Investigate the source of the hum"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Try to communicate with... whatever this is"
+          },
+          {
+            "id": "choice3_id",
+            "text": "Slowly back away, trying not to provoke a reaction"
+          },
+          {
+            "id": "choice4_id",
+            "text": "Reach out again, despite your growing unease"
+          }
+        ]
+      },
+      {
+        "choice": "Investigate the source of the hum",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Reach out and touch the surface again"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Step back and try to escape the energy's influence"
+          },
+          {
+            "id": "choice3_id",
+            "text": "Try to communicate with the presence through the hum"
+          }
+        ]
+      },
+      {
+        "choice": "Try to communicate with the presence through the hum",
+        "choices": [
+          {
+            "id": "choice1_id",
+            "text": "Ask what they are and why they're waiting"
+          },
+          {
+            "id": "choice2_id",
+            "text": "Demand answers about the mysterious energy"
+          },
+          {
+            "id": "choice3_id",
+            "text": "Try to learn more about their intentions"
+          },
+          {
+            "id": "choice4_id",
+            "text": "Request a physical manifestation of the presence"
+          }
+        ]
+      },
+      {
+        "choice": "Request a physical manifestation of the presence",
+        "choices": [
+          {
+            "id": "choice1",
+            "text": "Step forward into the heart of the distortion"
+          },
+          {
+            "id": "choice2",
+            "text": "Investigate the source of the glow"
+          },
+          {
+            "id": "choice3",
+            "text": "Try to reason with the presence, ask it to manifest in a more defined way"
+          },
+          {
+            "id": "choice4",
+            "text": "Reach out with your senses, attempt to grasp the essence of the being behind the hum"
+          }
+        ],
+        "timestamp": "2025-09-21T23:19:46.366153"
+      },
+      {
+        "choice": "Try to reason with the presence, ask it to manifest in a more defined way",
+        "choices": [
+          {
+            "id": "choice1",
+            "text": "Reach out to touch the mist-shrouded figure, hoping to break through its enigmatic defenses"
+          },
+          {
+            "id": "choice2",
+            "text": "Attempt to communicate with the presence using the hum as a focal point for your thoughts"
+          },
+          {
+            "id": "choice3",
+            "text": "Call out to the figure in a voice that echoes across the forest, seeking a response or explanation for its presence"
+          },
+          {
+            "id": "choice4",
+            "text": "Step back and let the distortion unfold on its own, observing from a safe distance to avoid disrupting its delicate process­ing"
+          }
+        ],
+        "timestamp": "2025-09-21T23:21:54.663809"
+      },
+      {
+        "choice": "Reach out to touch the mist-shrouded figure, hoping to break through its enigmatic defenses",
+        "choices": [
+          {
+            "id": "choice1",
+            "text": "Push forward, trying to grasp the figure's elusive form"
+          },
+          {
+            "id": "choice2",
+            "text": "Retreat, attempting to calm the hum and reestablish a fragile connection"
+          },
+          {
+            "id": "choice3",
+            "text": "Speak to the figure, hoping its enigmatic presence will yield to your words"
+          },
+          {
+            "id": "choice4",
+            "text": "Summon a nearby object, using it as a makeshift anchor to ground yourself in this unsettling encounter"
+          }
+        ],
+        "timestamp": "2025-09-21T23:23:46.750382"
+      },
+      {
+        "choice": "Retreat, attempting to calm the hum and reestablish a fragile connection",
+        "choices": [
+          {
+            "id": "choice1",
+            "text": "Try to establish verbal communication with the figure"
+          },
+          {
+            "id": "choice2",
+            "text": "Investigate the source of the hum and its connection to the figure"
+          },
+          {
+            "id": "choice3",
+            "text": "Attempt to reach out and touch the figure again, hoping for a deeper understanding"
+          },
+          {
+            "id": "choice4",
+            "text": "Call upon your own inner energy to resonate with the figure's mysterious power"
+          }
+        ],
+        "timestamp": "2025-09-21T23:24:18.287552"
+      },
+      {
+        "choice": "Try to establish verbal communication with the figure",
+        "choices": [
+          {
+            "id": "choice1",
+            "text": "Demand answers: 'What do you want from me?'"
+          },
+          {
+            "id": "choice2",
+            "text": "Probe its intentions: 'Why have you been hiding from me?'"
+          },
+          {
+            "id": "choice3",
+            "text": "Attempt to establish a rapport: 'We don't have to be enemies, can we talk?'"
+          },
+          {
+            "id": "choice4",
+            "text": "Prepare for battle: 'I won't back down. What's your business here?'"
+          }
+        ],
+        "timestamp": "2025-09-21T23:24:53.803392"
+      }
+    ],
+    "story_meta": {
+      "title": "The Broken Crown (Demo)",
+      "genre": "Fantasy",
+      "tone": "mysterious",
+      "author": "AI Storyteller",
+      "version": "1.0"
+    }
+  }
+}
