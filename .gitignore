@@ -1,0 +1,17 @@
+# node / web
+node_modules/
+dist/
+build/
+.env
+.env.local
+.vscode/
+.DS_Store
+/.cache
+/*.log
+
+# python
+__pycache__/
+*.pyc
+
+# local files
+*.sqlite
